@@ -1,0 +1,119 @@
+#wall{
+    padding-left: 22%;
+    padding-right: 22%;
+    font-style: italic;
+    font-size: larger;
+}
+#op{
+   text-align: left;
+   background-color:rgb(23, 117, 185);
+   color: white;
+}
+/* .azadi{
+    text-align: center;
+   padding-right: 18%;
+   font-style: normal;
+   margin-left: 4%;
+}
+ .bbc{
+padding-right: 13%;
+margin-right: 38%;
+} 
+/* .sadi{
+    padding-left: 13%;
+    margin-left: 38%;
+    padding-bottom: 25%;
+}
+.kalan{
+    padding-left: 10%;
+    margin-left: 38%;
+    padding-bottom: 0.5%;
+    padding-right: 5%;
+}
+#horn{
+    margin-left: 38%;
+    padding-left: 7%;
+    background-color:rgb(23, 117, 185);
+}
+#avatar{
+   padding-left: 7%;
+   margin-left: 52%;
+   background-color: gray;
+} */
+/* .azadi{
+padding-left: 39%;
+    font-style: normal;
+}
+#kalan{
+
+margin-right: 38%;
+   
+} */ 
+.bbc{
+    margin-left: 38%;
+    /* padding-left: 13%; */
+    width: 24%;
+    /* justify-content: start; */
+    margin-right: 30%;
+    /* display: flex; */
+    text-align: start;
+    
+    }    
+
+.azadi{
+padding-left: 39%;
+    font-style: normal;
+}
+.horn{
+    margin-left: 38%;
+    /* padding-left: 13%; */
+    width: 24%;
+    /* justify-content: start; */
+    margin-right: 30%;
+    /* display: flex; */
+    text-align: start;
+  padding-bottom: 25%;
+}
+#horn{
+    margin-left: 38%;
+    /* padding-left: 13%; */
+    width: 24%;
+    /* justify-content: start; */
+    margin-right: 30%;
+    /* display: flex; */
+    text-align: start;
+ font-size: larger;
+}
+#you{
+    margin-left: 38%;
+    padding-left: 4%;
+     width: 11%;
+    justify-content: center; 
+    margin-right: 30%;
+ display: flex;  
+text-align: center;
+    color: white;
+ font-size: medium;
+ background-color:rgb(23, 117, 185);
+ 
+
+}
+#money{
+    padding-left: 20%;
+   padding-right: 26%;
+   margin-left: 20%;
+   margin-right: 36%;
+}
+
+#jj{
+    margin-left: 51%;
+   padding-right: 1.85%;
+     width: 11%;
+     justify-content: center;  
+    margin-right: 30%;
+ display: flex;  
+ text-align: center;
+    color: gray;
+ font-size: medium;
+margin-top: -2.23%;
+}
